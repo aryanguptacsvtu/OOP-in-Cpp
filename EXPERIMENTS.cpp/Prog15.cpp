@@ -11,7 +11,7 @@ public:
 class B : public A
 {
 public:
-    void dispay()
+    void display()
     {
         cout << "Derived class is invoked." << endl;
     }
